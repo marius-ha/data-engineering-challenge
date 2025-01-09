@@ -1,4 +1,7 @@
-# Data Engineering Challenge 🚀
+# Data Engineering Challenge 🚀 
+[Switch to the English README](https://github.com/marius-ha/data-engineering-challenge/blob/main/README-EN.md)
+
+
 
 Tach auch! Willkommen beim Data Engineering Projekt – hier jibbet wat mit Docker, Python, der Open-Meteo API und 'ner Ladung Daten! Guck dir die Anleitung ma in Ruhe an und leg direkt los mit'm Projekt.
 
